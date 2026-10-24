@@ -1,6 +1,6 @@
 cask "agents-sleep-preventer" do
-  version "5.3.0"
-  sha256 "6e016645e684b4d510d8024383a3e6d73195db77dba5a40a18b1cc2949400358"
+  version "5.4.0"
+  sha256 "5344312a3109c026a5fcb9e1b5d9a07e58cbae51690245b4b1007beb1d2ddc25"
 
   url "https://github.com/CharlonTank/agents-sleep-preventer/releases/download/v#{version}/AgentsSleepPreventer-#{version}.dmg"
   name "Agents Sleep Preventer"
