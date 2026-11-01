@@ -1,10 +1,10 @@
 cask "agents-sleep-preventer" do
-  version "5.6.0"
-  sha256 "d7c5ea89e826cf4b9659a0cdb255383c3571f38212488719baf10c0d0af54e95"
+  version "5.7.0"
+  sha256 "d97a068c2e42305f79af5d8009a83aba8561cc2acc62a885bcf744a86a17904c"
 
   url "https://github.com/CharlonTank/agents-sleep-preventer/releases/download/v#{version}/AgentsSleepPreventer-#{version}.dmg"
-  name "Agents Sleep Preventer"
-  desc "Prevents sleep while coding agents work and shows their status"
+  name "Agent Session Pilot"
+  desc "Keeps coding agents awake, watches them and drives them from Telegram"
   homepage "https://github.com/CharlonTank/agents-sleep-preventer"
 
   livecheck do
