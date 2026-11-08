@@ -1,6 +1,6 @@
 cask "agents-sleep-preventer" do
-  version "5.8.2"
-  sha256 "d7b7d7f33720b58a098619a2255d1abed7e149a4591fd59f0407abbf1d1b32f0"
+  version "5.8.3"
+  sha256 "045195af5761c09ad3494c1d75839fcbc8af172e90d2a5d7c5c4c46d486ece68"
 
   url "https://github.com/CharlonTank/agents-sleep-preventer/releases/download/v#{version}/AgentsSleepPreventer-#{version}.dmg"
   name "Agent Session Pilot"
